@@ -1,3 +1,3 @@
 # animated-broccoli
 
-This Repository is for the developing Android application
+This Repository is for the developing Android application!
